@@ -1,0 +1,32 @@
+# Node.js project
+node_modules/
+package-lock.json
+
+# Python project
+__pycache__/
+*.pyc
+env/
+venv/
+*.egg-info
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*~
+*.log
+*.swp
+
+# Build output
+build/
+dist/
+out/
+
+# Dependency directories
+/deps
+
+# Environment variables
+.env
